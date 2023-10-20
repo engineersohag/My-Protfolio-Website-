@@ -614,7 +614,7 @@ nav ul .nav-link:hover{
 
 /*------------ responsive-part ------------*/
 
-@media only screen and (max-width: 768px){
+@media screen and (max-width: 768px){
 	.home{
 		height: 80vh;
 	}
@@ -666,7 +666,7 @@ nav ul .nav-link:hover{
 	}
 }
 
-@media only screen and (max-width: 481px){
+@media screen and (max-width: 481px){
 	nav{
 		height: 8vh;
 	}
